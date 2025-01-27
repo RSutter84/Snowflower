@@ -1,1 +1,21 @@
+Snowflower
+by Ralph Sutter
+Reviewed by Kathleen Morrissey
+
+Sketch/image description: a gradient dark blue background, with a transparent, icy bouquet topping delicate stems. 
+
+Breaking the code into written steps:
+1.	Set up the canvas 
+2.	Create the background; use the Y coordinates to graduate the color from dark to light 
+3.	Create a transparent main branch, angling them using divisions of PI!
+4.	Set the origin point for the main branch and establish its length
+5.	Utilize an if statement to create the conditions for the supporting branches 
+6.	Set branch thickness with stroke values, reduce density and utilize randomized rotation 
+7.	Use two if statements to create the randomized rotating effect based on a preset range
+
+Code review:
+The output is gorgeous, and the code is elegantly simple. The use of randomness invites a level of interactivity, and the range of rotations allows each run of the code to produce organic, intentional displays of flowers. It was clever to utilize if statements to curate the range of rotations! 
+
+
+
 
